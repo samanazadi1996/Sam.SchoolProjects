@@ -1,0 +1,10 @@
+If Button = 1 Then
+If PRONOTEPAD.Top < 0 Then PRONOTEPAD.Move 0, 0, ScaleWidth, ScaleHeight
+If PRONOTEPAD.Top > 0 Then PRONOTEPAD.Move PRONOTEPAD.Left, PRONOTEPAD.Top, 3015, 2655
+If PRONOTEPAD.Left + X >= Me.ScaleWidth - 120 Then PRONOTEPAD.Move Me.ScaleWidth / 2, 0, PRONOTEPAD.ScaleWidth, Me.ScaleHeight
+If PRONOTEPAD.Left + X <= 120 Then PRONOTEPAD.Move 0, 0, Me.ScaleWidth / 2, Me.ScaleHeight
+
+End If
+f.Move 0, 0, PRONOTEPAD.Width
+Image11.Move PRONOTEPAD.Width - 500
+TextNOTAPAD.Move TextNOTAPAD.Left, TextNOTAPAD.Top, PRONOTEPAD.ScaleWidth - 180, PRONOTEPAD.ScaleHeight - 540

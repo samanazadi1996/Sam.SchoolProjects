@@ -1,0 +1,16 @@
+Line 530: Class MSComDlg.CommonDialog of control CommonDialogp was not a loaded control class.
+Line 935: Class MSComDlg.CommonDialog of control CommonDialogtz was not a loaded control class.
+Line 1090: Class MSComDlg.CommonDialog of control CommonDialogrun was not a loaded control class.
+Line 1647: Class MSComDlg.CommonDialog of control CommonDialog1 was not a loaded control class.
+Line 533: The property name _ExtentX in CommonDialogp is invalid.
+Line 534: The property name _ExtentY in CommonDialogp is invalid.
+Line 535: The property name _Version in CommonDialogp is invalid.
+Line 938: The property name _ExtentX in CommonDialogtz is invalid.
+Line 939: The property name _ExtentY in CommonDialogtz is invalid.
+Line 940: The property name _Version in CommonDialogtz is invalid.
+Line 1093: The property name _ExtentX in CommonDialogrun is invalid.
+Line 1094: The property name _ExtentY in CommonDialogrun is invalid.
+Line 1095: The property name _Version in CommonDialogrun is invalid.
+Line 1650: The property name _ExtentX in CommonDialog1 is invalid.
+Line 1651: The property name _ExtentY in CommonDialog1 is invalid.
+Line 1652: The property name _Version in CommonDialog1 is invalid.
